@@ -1,4 +1,4 @@
-11111/* Created by Tivotal */
+1111/* Created by Tivotal */
 
 const wrapper = document.querySelector(".wrapper");
 
