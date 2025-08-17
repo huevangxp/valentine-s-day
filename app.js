@@ -1,4 +1,4 @@
-1/* Created by Tivotal */
+/* Created by Tivotal */
 
 const wrapper = document.querySelector(".wrapper");
 
